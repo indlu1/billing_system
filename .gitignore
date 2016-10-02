@@ -1,0 +1,5 @@
+bsp/Debug
+bsp/billingSystemProject2016/Debug
+bsp/*.suo
+bsp/*.ncb
+*.user
